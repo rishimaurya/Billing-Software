@@ -1,0 +1,6 @@
+@media print {
+    #print-content {
+					background-image: url(<?php echo base_url('wm.jpg'); ?>);
+					background-repeat: no-repeat;
+                }
+}

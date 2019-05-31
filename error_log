@@ -1,0 +1,14 @@
+[01-May-2018 15:57:45 Etc/GMT] PHP Fatal error:  Call to a member function countBill_history() on null in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Customer.php on line 359
+[24-May-2018 17:10:20 Etc/GMT] PHP Parse error:  syntax error, unexpected ''address'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Customer.php on line 47
+[25-May-2018 08:27:36 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Add_item.php on line 44
+[25-May-2018 09:28:02 Etc/GMT] PHP Fatal error:  Call to a member function alert_color() on null in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Add_item.php on line 114
+[25-May-2018 09:53:45 Etc/GMT] PHP Fatal error:  Call to a member function alert_color() on null in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Agency.php on line 19
+[25-May-2018 11:13:17 Etc/GMT] PHP Fatal error:  Call to a member function alert_color() on null in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Invoice.php on line 18
+[25-May-2018 11:14:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Customer.php on line 619
+[25-May-2018 11:45:43 Etc/GMT] PHP Fatal error:  Call to undefined function get_cookie() in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Customer.php on line 554
+[25-May-2018 11:47:58 Etc/GMT] PHP Fatal error:  Call to a member function fetch_items() on null in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Customer.php on line 607
+[25-May-2018 12:09:14 Etc/GMT] PHP Fatal error:  Call to undefined function customer_list() in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Customer.php on line 105
+[08-Jun-2018 07:08:38 Etc/GMT] PHP Fatal error:  Call to undefined function get_cookie() in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Agency.php on line 67
+[08-Jun-2018 07:12:14 Etc/GMT] PHP Fatal error:  Call to undefined method AgencyModel::countAgency() in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Agency.php on line 101
+[08-Jun-2018 10:29:03 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Invoice.php on line 36
+[08-Jun-2018 10:36:10 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on array in /home/sunnyybv/public_html/dreamycreations.in/billing/application/controllers/Invoice.php on line 35

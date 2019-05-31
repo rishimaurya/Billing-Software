@@ -1,0 +1,35 @@
+{
+    "remote": {
+        "server": {
+            "host": "http://sunnytechnicalservices.com",
+            "username": "sunnybv",
+            "password": "$Qwerty1610$",
+            "ssh_port": 22,
+            "path": "public_html/"
+        },
+        "database": {
+            "name": "sunnyybv_dreamy1",
+            "username": "sunnyybv_dreamy1",
+            "password": "xxx123xxx@"
+        },
+        "ignore_from_local": [
+            "password.php", 
+            "local.ini"
+        ]
+    },
+    "local": {
+        "server": {
+            "path": "G:\xampp\htdocs\billing\\"
+        },
+        "database": {
+            "name": "billing",
+            "username": "root",
+            "password": ""
+        },
+        "ignore_from_remote": [
+            "*.ini", 
+            "public/uploads/",
+            "*.html"
+        ]   
+    }
+}
